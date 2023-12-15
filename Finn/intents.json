@@ -1,0 +1,151 @@
+{"intents":
+  {
+  "stock_price": {
+    "queries": [
+      "What is the current price of Apple (AAPL)?",
+      "Show me the stock price of Tesla (TSLA)",
+      "What is the price of Google stock?"
+    ],
+    "responses": [
+      "The current price of Apple (AAPL) is $150.",
+      "The stock price of Tesla (TSLA) is $700.",
+      "Google stock price is $2500."
+    ]
+  },
+  "market_trends": {
+    "queries": [
+      "What are the current market trends?",
+      "Show me trends in technology stocks.",
+      "Market analysis for finance sector."
+    ],
+    "responses": [
+      "The current market trends show a bullish pattern.",
+      "Technology stocks are showing an upward trend.",
+      "Finance sector analysis indicates steady growth."
+    ]
+  },
+  "investment_strategies": {
+    "queries": [
+      "Any recommendations for long-term investments?",
+      "What are the best investment strategies?",
+      "Show me low-risk high-return investment options."
+    ],
+    "responses": [
+      "Consider investing in diversified index funds for long-term growth.",
+      "The best investment strategies depend on individual risk tolerance and goals.",
+      "Low-risk high-return options include government bonds and blue-chip stocks."
+    ]
+  },
+  "cryptocurrency_info": {
+    "queries": [
+      "What is the current price of Bitcoin (BTC)?",
+      "Show me information about Ethereum (ETH)",
+      "Crypto market analysis."
+    ],
+    "responses": [
+      "The current price of Bitcoin (BTC) is $40,000.",
+      "Ethereum (ETH) is trading at $3000.",
+      "Crypto market analysis shows high volatility."
+    ]
+  },
+  "retirement_planning": {
+    "queries": [
+      "How can I plan for retirement?",
+      "Retirement savings strategies?",
+      "Best retirement investment options."
+    ],
+    "responses": [
+      "Start early and regularly contribute to retirement accounts like 401(k) or IRA.",
+      "Diversify investments and consider consulting a financial advisor.",
+      "Retirement investment options include annuities, index funds, and real estate."
+    ]
+  },
+  "tax_planning": {
+    "queries": [
+      "Tax-saving tips for individuals?",
+      "How to reduce tax liabilities?",
+      "Show me tax planning strategies."
+    ],
+    "responses": [
+      "Utilize tax-deferred accounts like HSAs or IRAs for tax savings.",
+      "Consider tax deductions, credits, and investments for reducing tax liabilities.",
+      "Tax planning strategies involve charitable contributions, deductions, and tax-efficient investments."
+    ]
+  },
+  "budget_management": {
+    "queries": [
+      "How to create a personal budget?",
+      "Budgeting techniques for financial stability?",
+      "Show me budget management tools."
+    ],
+    "responses": [
+      "Track expenses, categorize spending, and set financial goals for effective budgeting.",
+      "Budgeting techniques include the envelope method, zero-based budgeting, and 50/30/20 rule.",
+      "Budget management tools include apps like Mint, YNAB, and spreadsheets for tracking expenses."
+    ]
+  },
+  "stocks_all_time": {
+    "queries": [
+      "What is the all-time high for Apple (AAPL) stock?",
+      "Show me the lowest price of Tesla (TSLA) stock.",
+      "All-time high for Google stock (GOOGL)?"
+    ],
+    "responses": [
+      "The all-time high for Apple (AAPL) stock was $160.",
+      "The lowest price of Tesla (TSLA) stock was $200.",
+      "Google stock's all-time high was $3000."
+    ]
+  },
+  "ceo_info": {
+    "queries": [
+      "Who is the CEO of Apple (AAPL)?",
+      "Show me the CEO of Tesla (TSLA)",
+      "Current CEO of Google (GOOGL)?"
+    ],
+    "responses": [
+      "Tim Cook is the CEO of Apple (AAPL).",
+      "Elon Musk is the CEO of Tesla (TSLA).",
+      "Sundar Pichai is the CEO of Google (GOOGL)."
+    ]
+  },
+  "earnings_report": {
+    "queries": [
+      "When is Apple's (AAPL) next earnings report?",
+      "Earnings report date for Tesla (TSLA)?",
+      "When does Google (GOOGL) release its earnings?"
+    ],
+    "responses": [
+      "Apple's next earnings report is scheduled for July 30, 2023.",
+      "Tesla's earnings report is scheduled on August 10, 2023.",
+      "Google's earnings report will be released on July 25, 2023."
+    ]
+  },
+  "goodbye": {
+    "queries": [
+      "bye",
+      "goodbye",
+      "thanks"
+    ],
+    "responses": [
+      "bye bye",
+      "cya",
+      "goodbye"
+    ]
+  },
+  "greeting": {
+    "queries": [
+      "hi",
+      "hello",
+      "whats up"
+    ],
+    "responses": [
+      "hows it going",
+      "hello",
+      "whats up"
+    ]
+  }
+}
+
+
+
+}
